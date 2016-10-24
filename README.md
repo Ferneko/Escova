@@ -35,4 +35,4 @@ Maioria de ouros - vale 1 ponto;
 Todas as cartas de ouros - vale 2 pontos;
 Posse do 7 de ouros, também conhecido por 7 belo - vale 1 ponto.
 
-_Trabalho desenvolvido para a disciplina de Redes de Computadores I (UNISINOS)._
+_Trabalho desenvolvido para a disciplina de Redes de Computadores I (UNISINOS) em 2016/2._
